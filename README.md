@@ -2,15 +2,16 @@
 
 # Enunciado 
 Dado dos numeros informar cual es el mayor.
+
 # Restriccion
 Los dos numeros son diferentes entre si.
 
 # Analisis
 Modelo IPO
-Entrada: A y B pertenecen a los numeros naturales. 
+Entrada: A y B pertenecen a los numeros reales. 
 Poceso.
-Salida: c pertenece a los naturales 
+Salida: muestra c que pertecene al numero real 
 
 # Algoritmo 
-Dado un numero que lo guardamos en la variable A y dado otro numero que lo guardamos en la variable B. Comparamos a A y B, mostramos el mas grande que lo guardamos en C.
+Dado un numero que lo guardamos en la variable A y dado otro numero que lo guardamos en la variable B. Comparamos a A y B, mostramos en pantalla cual es el numeor mas grande.
 
